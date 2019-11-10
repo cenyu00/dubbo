@@ -1,5 +1,10 @@
 # Apache Dubbo Project
 
+## 调试记录
+
+开始时间：2019年11月10日
+
+
 [![Build Status](https://travis-ci.org/apache/dubbo.svg?branch=master)](https://travis-ci.org/apache/dubbo)
 [![codecov](https://codecov.io/gh/apache/dubbo/branch/master/graph/badge.svg)](https://codecov.io/gh/apache/dubbo)
 ![maven](https://img.shields.io/maven-central/v/org.apache.dubbo/dubbo.svg)
