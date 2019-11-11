@@ -47,8 +47,7 @@ import static org.apache.dubbo.common.constants.CommonConstants.DEFAULT_KEY;
 import static org.apache.dubbo.common.constants.CommonConstants.REMOVE_VALUE_PREFIX;
 
 /**
- * Utility methods and public methods for parsing configuration
- *
+ * 提供配置解析与校验相关的工具方法
  * @export
  */
 public abstract class AbstractConfig implements Serializable {
